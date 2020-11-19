@@ -1,0 +1,88 @@
+[
+  {
+    "name": "The Architect",
+    "trait_options": [
+      "Mental Disorder (Bipolar Disorder)",
+      "Mental Disorder (Insomnia)",
+      "Mental Disorder (Paramnesia)"
+    ],
+    "sleight_options": [
+      "Enhanced Creativity",
+      "Insomnia",
+      "Paramnesia"
+    ],
+    "summary": "Your infection possesses a distinct curiosity and sense of intelligence.",
+    "description": "Your infection possesses a distinct curiosity and sense of intelligence. You often see things from a perspective that is different. It drives you to delve into the inner mechanics of things and examine how they work — whether they be machines or biological entities. The urges push beyond exploration and learning — you are often compelled to build and construct new things: architecture with inexplicable functions, strange devices, or even new forms of life. Though the virus’s exact motivation and intent remains unclear, it leaves you with an unmistakable sense of purpose.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": ""
+  },
+  {
+    "name": "The Beast",
+    "trait_options": [
+      "Mental Disorder (ADHD)",
+      "Mental Disorder (Anxiety)",
+      "Mental Disorder (PTSD)"
+    ],
+    "sleight_options": [
+      "High Pain Threshold",
+      "Burst of Adrenaline",
+      "Psychic Stab"
+    ],
+    "summary": "Your infection is a ravenous, bloodthirsty monster, yearning to break free.",
+    "description": "Your infection is a ravenous, bloodthirsty monster, yearning to break free. You struggle to keep it in check, placated or distracted, else the desire for carnage and mayhem overwhelms you.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": ""
+  },
+  {
+    "name": "The Haunter",
+    "trait_options": [
+      "Addiction",
+      "Mental Disorder (Cosmic Anxiety Disorder)",
+      "Mental Disorder (Paranoia)"
+    ],
+    "sleight_options": [
+      "Heightened Awareness",
+      "Infectious Mind",
+      "Nightmare"
+    ],
+    "summary": "The low-level dread of incomprehensible terror, flittering at the edge of perception, is your constant companion.",
+    "description": "The low-level dread of incomprehensible terror, flittering at the edge of perception, is your constant companion. Sometimes it is the crushing weight of the uncaring dark void that makes our extinction a near certainty, sometimes it is a more palpable, unnameable presence, an entity so beyond your ken that you are insignificant in comparison. You are plagued by unrest and unease, taunted by nightmares and a sense that reality is not always as grounded as you would like.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": ""
+  },
+  {
+    "name": "The Stranger",
+    "trait_options": [
+      "Mental Disorder (Disassociative Personality Disorder)",
+      "Mental Disorder (Paramnesia)",
+      "Mental Disorder (Paranoia)"
+    ],
+    "sleight_options": [
+      "Superior Kinesics",
+      "Basilisk Stare",
+      "Subliminal"
+    ],
+    "summary": "Your infection is the shadow at your side, the whispering chant of its unusual desires echoing just below the limits of your perception.",
+    "description": "Your infection is the shadow at your side, the whispering chant of its unusual desires echoing just below the limits of your perception. It is omnipresent but patient, waiting for moments of vulnerability to steer you towards its inscrutable ends. Though its motivations are hazy, it seems to enjoy testing your limits — and those of transhumanity at large.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": ""
+  },
+  {
+    "name": "The Xenomorph",
+    "trait_options": [
+      "Mental Disorder (Alien Behavioral Disorder)",
+      "Mental Disorder (Atavism)",
+      "Mental Disorder (Body Dysmorphia)",
+      "Mental Disorder (Conversion Disorder)"
+    ],
+    "sleight_options": [
+      "Somatic Control",
+      "Eco-Empathy",
+      "Xeno-Empathy"
+    ],
+    "summary": "An alien presence lives inside of you.",
+    "description": "An alien presence lives inside of you. Your instinctual responses are different from those of your original phenotype and you occasionally find yourself acting in ways more fitting to a physiology different from yours. You might feel a weird compulsion to burrow into sand, lay eggs, eat non-nutritious or dangerous substances, or clean phantom appendages that aren’t part of your current anatomy. You may even seek out morphs that better accommodate these omnipresent urges. You sometimes express an outlook that other transhumans find strange, just as you are occasionally confused or mystified by transhuman cultural practices. When the infection expresses itself strongly, these omnipresent urges seem quite normal, but the transhumans around you seem more and more bizarre and alien. While some asyncs report this sub-strain as adhering to a specific alien anatomy (i.e., they often feel insectoid or aquatic), others clearly feel that the alien presence within transforms and changes over time.",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": ""
+  }
+]
