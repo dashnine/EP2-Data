@@ -531,7 +531,7 @@
   {
     "category": "Ranged Weapons",
     "subcategory": "Kinetic Weapons",
-    "name": "Assault Rifle",
+    "name": "Assault Rifle Railgun",
     "damage": "2d10+2",
     "damage_avg": "13",
     "firemodes": "SA/BF/FA",

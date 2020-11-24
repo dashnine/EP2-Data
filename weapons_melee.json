@@ -201,30 +201,6 @@
   {
     "category": "Melee Weapons",
     "subcategory": "Melee Weapons",
-    "name": "Unarmed (Biomorph)",
-    "damage": "1d6",
-    "damage_avg": "4",
-    "notes": "",
-    "description": "<p>Generic unarmed attack from a standard biomorph.</p>",
-    "resource": "Eclipse Phase Second Edition",
-    "reference": "",
-    "id": "895e979f-99b4-43b1-90d1-52fbe7688f1b"
-  },
-  {
-    "category": "Melee Weapons",
-    "subcategory": "Melee Weapons",
-    "name": "Unarmed (Shell)",
-    "damage": "2d6",
-    "damage_avg": "7",
-    "notes": "",
-    "description": "<p>Generic unarmed attack from a standard Shell synthmorph.</p>",
-    "resource": "Eclipse Phase Second Edition",
-    "reference": "",
-    "id": "5bc40940-f8a7-4d2e-8366-bae24e316f18"
-  },
-  {
-    "category": "Melee Weapons",
-    "subcategory": "Melee Weapons",
     "name": "Vibroblade",
     "damage": "1d10+1d6",
     "damage_avg": "9",

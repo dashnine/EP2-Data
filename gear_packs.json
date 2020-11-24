@@ -67,8 +67,7 @@
       "Drone Rig",
       "Enhanced Security",
       "Exploit",
-      "TacNet",
-      "Private Server",
+      "Self-administrated Private Server",
       "Gnat",
       "Guardian Angel"
     ],
@@ -158,7 +157,7 @@
     "id": "fbae3b8a-567f-4202-aa23-eba4522762fd"
   },
   {
-    "name": "Face/Dealer",
+    "name": "Face",
     "type": "Profession",
     "gear": [
       "Enhanced Hearing",

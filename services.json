@@ -57,9 +57,20 @@
   {
     "category": "Services",
     "subcategory": "Mesh Services",
+    "name": "Self-administrated Private Server",
+    "complexity/gp": "Min/1",
+    "summary": "Private server, self-administrated..",
+    "description": "<p>Capable of running simulspace and 50 infomorphs.</p>",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "cca918b6-8522-42d0-8c2d-8f8dec9cb535"
+  },
+  {
+    "category": "Services",
+    "subcategory": "Mesh Services",
     "name": "Private Server",
-    "complexity/gp": "Min/1 or Mod/2 ",
-    "summary": "Private server, self-administrated (Min) or managed by others (Mod).",
+    "complexity/gp": "Mod/2 ",
+    "summary": "Private server, managed by others.",
     "description": "<p>Capable of running simulspace and 50 infomorphs.</p>",
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
