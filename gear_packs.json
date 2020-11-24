@@ -5,9 +5,9 @@
     "gear": [
       "Anonymizer",
       "Fake Ego ID",
-      "Medium Pistol Firearm",
-      "TacNet App",
-      "VPN App"
+      "Medium Pistol",
+      "TacNet",
+      "VPN"
     ],
     "options": [
       {
@@ -34,9 +34,9 @@
     "type": "Campaign",
     "gear": [
       "Electronic Rope",
-      "Medium Pistol Firearm",
+      "Medium Pistol",
       "Portable SolArchive",
-      "TacNet App"
+      "TacNet"
     ],
     "options": [
       {
@@ -66,8 +66,8 @@
     "gear": [
       "Drone Rig",
       "Enhanced Security",
-      "Exploit App",
-      "TacNet App",
+      "Exploit",
+      "TacNet",
       "Private Server",
       "Gnat",
       "Guardian Angel"
@@ -81,13 +81,13 @@
     "name": "Academic",
     "type": "Profession",
     "gear": [
-      "Creepy Bot",
+      "Creepy",
       "Holographic Projector",
       "Microcar",
       "Multi-Tasking",
       "Neem (5 doses)",
       "Portable SolArchive",
-      "Servitor Bot",
+      "Servitor",
       "Simulspace"
     ],
     "options": [],
@@ -103,7 +103,7 @@
       "Cleaner Swarm",
       "Covert Operations Tool",
       "Microbug",
-      "Spy Nanoswarm"
+      "Spy Swarm"
     ],
     "options": [
       {
@@ -196,12 +196,12 @@
     "name": "Hacker",
     "type": "Profession",
     "gear": [
-      "Exploit App",
+      "Exploit",
       "Gray Box",
       "Radio Booster",
-      "Sniffer App",
-      "Spoofer App",
-      "Tracker App"
+      "Sniffer",
+      "Spoofer",
+      "Tracker"
     ],
     "options": [],
     "resource": "Eclipse Phase Second Edition",
@@ -218,9 +218,9 @@
       "Klar (5 doses)",
       "Microbug",
       "Oracles",
-      "Scout Nanoswarm",
+      "Scout Swarm",
       "Speck",
-      "Spy Nanoswarm"
+      "Spy Swarm"
     ],
     "options": [],
     "resource": "Eclipse Phase Second Edition",
