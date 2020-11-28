@@ -297,11 +297,7 @@
       {
         "name": "program",
         "rating": 50,
-        "options": [
-          "Groundcraft",
-          "Industrial",
-          "Robotics"
-        ]
+        "options": []
       },
       {
         "name": "research",
