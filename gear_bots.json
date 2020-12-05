@@ -37,7 +37,7 @@
       "Radar",
       "Smart Actuators",
       "T-Ray Emitter",
-      "Weapon Mount: (Articulated)"
+      "Weapon Mount"
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
@@ -76,7 +76,10 @@
       "Heavy Combat Armor",
       "Radar Absorbent",
       "Structural Reinforcement",
-      "Weapon Mount: (2 Static/2 Articulated/Concealed)"
+      "Weapon Mount",
+      "Weapon Mount",
+      "Weapon Mount",
+      "Weapon Mount"
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
@@ -118,7 +121,8 @@
       "Light Combat Armor",
       "Smart Actuators",
       "T-Ray Emitter",
-      "Weapon Mount: (2 Articulated/Concealed)"
+      "Weapon Mount",
+      "Weapon Mount"
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
@@ -331,7 +335,7 @@
       "Healing Spray (2)",
       "Repair Spray (2)",
       "Tool Kit (Medicine: Paramedic)",
-      "Weapon Mount: (Articulated/Concealed/Sprayer with NotWater)"
+      "Weapon Mount"
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",
@@ -675,7 +679,8 @@
       "Radar",
       "Radar Absorbent",
       "T-Ray Emitter",
-      "Weapon Mount: (2 Static)"
+      "Weapon Mount",
+      "Weapon Mount"
     ],
     "resource": "Eclipse Phase Second Edition",
     "reference": "",

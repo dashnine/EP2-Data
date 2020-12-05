@@ -459,7 +459,7 @@
     ],
     "ware": [
       "Biomods",
-      "Bioweave Armor (+2/+3)",
+      "Bioweave",
       "Claws",
       "Cortical Stack",
       "Enhanced Vision",
@@ -696,7 +696,7 @@
     "ware": [
       "Access Jacks",
       "Biomods",
-      "Carapace Armor (+6/+7)",
+      "Carapace Armor",
       "Cold Tolerance",
       "Cortical Stack",
       "Cyberbrain",
@@ -801,7 +801,7 @@
     "ware": [
       "Access Jacks",
       "Biomods",
-      "Bioweave Armor (+2/+3)",
+      "Bioweave",
       "Claws",
       "Cortical Stack",
       "Cyberbrain",
@@ -1370,7 +1370,7 @@
     ],
     "ware": [
       "Access Jacks",
-      "Cortical Stack (optional)",
+      "Cortical Stack",
       "Cyberbrain",
       "Grip Pads",
       "Lidar",
@@ -1776,7 +1776,10 @@
       "Radar",
       "Retracting Limbs",
       "T-Ray Emitter",
-      "Weapon Mount (Articulated, 4)"
+      "Weapon Mount",
+      "Weapon Mount",
+      "Weapon Mount",
+      "Weapon Mount"
     ],
     "morph_traits": [
       {
@@ -2065,7 +2068,8 @@
     "movement_rate": [],
     "ware": [
       "Pneumatics",
-      "Weapon Mount (2)"
+      "Weapon Mount",
+      "Weapon Mount"
     ],
     "morph_traits": [],
     "common_extras": [],

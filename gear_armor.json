@@ -77,7 +77,22 @@
   {
     "category": "Armor",
     "subcategory": "Armor Ware",
-    "name": "Scale/Carapace Armor",
+    "name": "Scale Armor",
+    "waretype": "B",
+    "energy": 6,
+    "kinetic": 7,
+    "stackable": true,
+    "complexity/gp": "Mod/2",
+    "notes": "",
+    "description": "<p>As dermal armor, but combined with hard but flexible external chitinous scales and/or plates, modeled on arthropod exoskeletons. This armor is obvious and the skin has the appearance of a crocodile, insect, pangolin, snake, or similarly armored creature.</p>",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": "aa4e94cb-7790-43ad-8f04-8ae9a8d63ac6"
+  },
+  {
+    "category": "Armor",
+    "subcategory": "Armor Ware",
+    "name": "Carapace Armor",
     "waretype": "B",
     "energy": 6,
     "kinetic": 7,

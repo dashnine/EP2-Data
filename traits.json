@@ -819,6 +819,60 @@
     "id": "deb6e876-e29c-4494-bdd2-b6c219ab264a"
   },
   {
+    "name": "Enhanced Behavior (Aggressiveness)",
+    "type": "Negative",
+    "cost": [
+      1,
+      2,
+      4
+    ],
+    "ego": true,
+    "morph": true,
+    "summary": "Psychosurgically enhanced behavior/emotions. See text.",
+    "description": "<p>Your conduct or moods are modified. This may be due to conditioning and reprogramming via time-accelerated psychosurgery ▶294, drugs, genetic tweaks, psi, or other factors. This may have been a deliberate choice or it may have been inflicted against your will. Work with your GM to define a specific emotion (e.g., happiness, contentment, love) or behavior (e.g., aggression, commitment, curiosity, orderliness, loyalty). Apply a -10 modifier per level to all actions when withheld from the behavior/emotion.</p><p>Level 1: You are encouraged to pursue the behavior and associate it with positive feelings; emotions are boosted.</p><p>Level 2: You are driven to engage in the specified behavior; emotions are exaggerated. Holding back requires a WIL Check.</p><p>Level 3: The behavior is enforced; emotions are compulsory and ongoing. If restrained from the conduct or the emotion is suppressed, suffer SV 1d6.</p><p>This trait may be taken more than once for different behaviors.</p>",
+    "auto": false,
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": null
+  },
+  {
+    "name": "Enhanced Behavior (Cooperation)",
+    "type": "Negative",
+    "cost": [
+      1,
+      2,
+      4
+    ],
+    "ego": true,
+    "morph": true,
+    "summary": "Psychosurgically enhanced behavior/emotions. See text.",
+    "description": "<p>Your conduct or moods are modified. This may be due to conditioning and reprogramming via time-accelerated psychosurgery ▶294, drugs, genetic tweaks, psi, or other factors. This may have been a deliberate choice or it may have been inflicted against your will. Work with your GM to define a specific emotion (e.g., happiness, contentment, love) or behavior (e.g., aggression, commitment, curiosity, orderliness, loyalty). Apply a -10 modifier per level to all actions when withheld from the behavior/emotion.</p><p>Level 1: You are encouraged to pursue the behavior and associate it with positive feelings; emotions are boosted.</p><p>Level 2: You are driven to engage in the specified behavior; emotions are exaggerated. Holding back requires a WIL Check.</p><p>Level 3: The behavior is enforced; emotions are compulsory and ongoing. If restrained from the conduct or the emotion is suppressed, suffer SV 1d6.</p><p>This trait may be taken more than once for different behaviors.</p>",
+    "auto": false,
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": null
+  },
+  {
+    "name": "Enhanced Behavior (Patience)",
+    "type": "Negative",
+    "cost": [
+      1,
+      2,
+      4
+    ],
+    "ego": true,
+    "morph": true,
+    "summary": "Psychosurgically enhanced behavior/emotions. See text.",
+    "description": "<p>Your conduct or moods are modified. This may be due to conditioning and reprogramming via time-accelerated psychosurgery ▶294, drugs, genetic tweaks, psi, or other factors. This may have been a deliberate choice or it may have been inflicted against your will. Work with your GM to define a specific emotion (e.g., happiness, contentment, love) or behavior (e.g., aggression, commitment, curiosity, orderliness, loyalty). Apply a -10 modifier per level to all actions when withheld from the behavior/emotion.</p><p>Level 1: You are encouraged to pursue the behavior and associate it with positive feelings; emotions are boosted.</p><p>Level 2: You are driven to engage in the specified behavior; emotions are exaggerated. Holding back requires a WIL Check.</p><p>Level 3: The behavior is enforced; emotions are compulsory and ongoing. If restrained from the conduct or the emotion is suppressed, suffer SV 1d6.</p><p>This trait may be taken more than once for different behaviors.</p>",
+    "auto": false,
+    "noted": false,
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": null
+  },
+  {
     "name": "Feebleness",
     "type": "Negative",
     "cost": [
