@@ -1522,6 +1522,22 @@
   {
     "category": "Ware",
     "subcategory": "Standard",
+    "name": "Cyberbrain Package",
+    "bioware": false,
+    "cyberware": true,
+    "hardware": true,
+    "meshware": false,
+    "nanoware": false,
+    "complexity/gp": "Maj/1",
+    "summary": "A cyberbrain suite for biomorphs for 1MP. Includes cyberbrain, access jacks, mnemonics, and puppet sock.",
+    "description": "<p>It is increasingly common to find biomorphs with cyberbrains, especially in the outer system. The advantage is that cyberbrains allow for easier resleeving and forking and have built-in mnemonic memory augmentations. The disadvantage is they are vulnerable to hacking. Adding a cyberbrain, access jacks, mnemonics, and puppet sock to your morph increases the MP cost by 1.</p>",
+    "resource": "Eclipse Phase Second Edition",
+    "reference": "",
+    "id": ""
+  },
+  {
+    "category": "Ware",
+    "subcategory": "Standard",
     "name": "Cyberbrain",
     "bioware": false,
     "cyberware": true,
